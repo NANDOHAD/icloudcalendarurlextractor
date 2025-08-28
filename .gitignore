@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Node (念のため)
+node_modules/
+
+# その他
+*.local
+.specstory/.gitignore
+.specstory/history/2025-08-28_03-33Z-chrome拡張の機能について.md
+.specstory/history/2025-08-28_05-17Z-githubにプロジェクトをアップロードする.md
+.specstory/history/2025-08-28_05-29Z-このchrome拡張を私のgithubにアップロードしてもらえますか.md
+.cursorindexingignore
