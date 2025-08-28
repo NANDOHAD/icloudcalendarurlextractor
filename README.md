@@ -14,7 +14,7 @@ Thunderbirdなどで利用できるiCloudカレンダー（CalDAV）URLを簡単
 4. 「パッケージ化されていない拡張機能を読み込む」から本フォルダを選択します。
 
 ## 使い方
-1. ChromeでiCloudカレンダー（https://www.icloud.com/calendar）を開きます。
+1. ChromeでiCloudカレンダー（ https://www.icloud.com/calendar ）を開きます。
 2. 拡張アイコンをクリックすると、CalDAV URLが自動で表示されます。
 3. 「コピー」ボタンでURLをクリップボードにコピーできます。
 4. 「リセット」ボタンで取得状態を初期化できます。
